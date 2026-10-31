@@ -1,21 +1,30 @@
-# Bumper Dent Repairs — GitHub Website
+# Bumper Dent Repairs Website
 
-This ZIP contains the complete website with **real local image files** in `images/`.
+This folder is ready to upload to a GitHub repository.
 
-## Files
-- `index.html`
-- `style.css`
-- `script.js`
-- `images/*.svg`
+## Files included
+- `index.html` — complete website
+- `style.css` — responsive styling
+- `images/` — image assets/placeholders
+- `.github/workflows/pages.yml` — automatic GitHub Pages deployment
+- `.gitignore`
+- `README.md`
 
-## GitHub Pages
-1. Create a GitHub repository.
-2. Upload everything in this folder.
-3. Go to **Settings → Pages**.
-4. Choose **Deploy from a branch**.
-5. Select `main` and `/ (root)`.
-6. Save.
+## Put it on GitHub
+1. Create a new GitHub repository.
+2. Upload **everything inside this folder** to the repository root.
+3. Make sure `index.html` is in the root of the repository.
+4. Push to the `main` branch.
+5. GitHub Pages can deploy automatically using the included workflow.
 
-The site is bilingual (English/Spanish), responsive, and uses local image assets so the background and service images display without needing remote image URLs.
+## Add your real photos
+Replace the image assets in `images/` with your actual:
+- Hero/background photo
+- BEFORE repair photos
+- AFTER repair photos
 
-The included images are clean automotive illustrations. Replace them with your own real repair photos later for the strongest marketing result.
+Keep the same filenames if you want the existing page structure to work without editing the HTML.
+
+## Contact
+Phone: (956) 371-9738
+Fax: (956) 546-4544
